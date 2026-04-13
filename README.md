@@ -43,11 +43,15 @@
 <p align="center">
   
 <a href="https://github.com/Muhammad-221/prayer-times">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-221&repo=prayer-times&theme=tokyonight" />
+  <img src="https://muhammad-221.github.io/My-Portfolio/assets/prayer-times-Bzsss_ZL.jpg" />
 </a>
 
 <a href="https://github.com/Muhammad-221/designkit-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-221&repo=designkit-project&theme=tokyonight" />
+  <img src="https://muhammad-221.github.io/My-Portfolio/assets/designkit-project-CC77b4a-.jpg" />
+</a>
+
+<a href="https://github.com/Muhammad-221/Medical-Analysis">
+  <img src="https://muhammad-221.github.io/My-Portfolio/assets/dashboard-BB6L2d9s.jpg" />
 </a>
 
 </p>
@@ -57,9 +61,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="#">LinkedIn</a> •
-<a href="#">Portfolio</a> •
-<a href="#">Email</a>
+<a href="https://www.linkedin.com/in/muhammad-abd-elmawla-a5032733b">LinkedIn</a> •
+<a href="https://muhammad-221.github.io/My-Portfolio/">Portfolio</a> •
+<a href="mohamedelkalb221@gmail.com">Email</a>
 </p>
 
 ---
